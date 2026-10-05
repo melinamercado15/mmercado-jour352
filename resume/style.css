@@ -75,6 +75,7 @@ BODY {
     padding-bottom:0;
     text-align:center;
     display:inline;
+    list-style-type:none;
 }
 
 .degrees {
